@@ -1,17 +1,22 @@
 # SkyGeni-Assignment
-1. How many finance lending and blockchain clients does the organization have?
-   ![image](https://github.com/user-attachments/assets/db24fa97-8d2b-42c4-8b2a-f1c893be29dc)
+## 1. How many finance lending and blockchain clients does the organization have? <br>
+   ![1](https://github.com/user-attachments/assets/4b96e6fd-c3d6-4acc-b5f5-312ebfc0cd4b)
 
-   ![image](https://github.com/user-attachments/assets/3cf5697f-debc-48c6-a5f3-41e6b2b1ecdc)
 
-2. Which industry in the organization has the highest renewal rate?
-   ![image](https://github.com/user-attachments/assets/de1c8dfe-22ce-4be8-846f-92327ef9f539)
+   ![11](https://github.com/user-attachments/assets/2d1775a5-979b-42f8-a0d0-884ed41e32e3)
 
-3. What was the average inflation rate when their subscriptions were renewed?
-   ![image](https://github.com/user-attachments/assets/7c8c9452-4089-41a9-a5be-b1477c32191f)
 
-4. What is the median amount paid each year for all payment methods?
-   ![image](https://github.com/user-attachments/assets/00daf1bf-b04f-4b48-a2ea-7b34272380fe)
+## 2. Which industry in the organization has the highest renewal rate?
+   ![2](https://github.com/user-attachments/assets/a8afbe9c-97b4-43fb-be83-cb8c135e71df)
+
+
+## 3. What was the average inflation rate when their subscriptions were renewed?
+   ![3](https://github.com/user-attachments/assets/e4848266-1eb1-4bd8-9638-762c76fd234c)
+
+
+## 4. What is the median amount paid each year for all payment methods?
+   ![4](https://github.com/user-attachments/assets/3394b950-4303-493b-b5f7-991d657246d3)
+
 
 
 
